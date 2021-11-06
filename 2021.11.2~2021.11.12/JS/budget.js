@@ -1,3 +1,4 @@
+//직접 푼 풀이 
 function solution(d, budget) {
     let answer = 0;
     while (budget >= 0) {
